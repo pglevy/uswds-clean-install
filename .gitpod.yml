@@ -1,7 +1,7 @@
 image:
   file: Dockerfile
 tasks:
-  - init: npm install && bundle install
+  - init: bundle install
     command: npm start
 ports:
   - port: 4000
