@@ -2,7 +2,7 @@ image:
   file: Dockerfile
 tasks:
   - init: npm install && bundle install
-    command: npm run start
+    command: npm start
 ports:
   - port: 4000
     onOpen: open-browser
