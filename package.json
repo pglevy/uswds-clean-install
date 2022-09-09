@@ -1,0 +1,24 @@
+{
+  "name": "uswds-clean-install",
+  "version": "1.0.0",
+  "description": "Working installation of the USWDS you can view on Github Pages or edit on Gitpod",
+  "main": "index.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pglevy/uswds-clean-install.git"
+  },
+  "keywords": [
+    "uswds",
+    "github-pages",
+    "gitpod"
+  ],
+  "author": "Philip Levy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pglevy/uswds-clean-install/issues"
+  },
+  "homepage": "https://github.com/pglevy/uswds-clean-install#readme"
+}
