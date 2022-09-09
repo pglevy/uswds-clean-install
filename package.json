@@ -4,6 +4,9 @@
   "description": "Working installation of USWDS you can view on Github Pages or edit on Gitpod",
   "main": "index.md",
   "scripts": {
+    "postinstall": "npm run jekyll:install",
+    "jekyll:install": "gem install bundler && bundle install",
+    "jekyll:serve": "bundle exec jekyll serve --host=0.0.0.0",
     "start": "npm run jekyll:serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
