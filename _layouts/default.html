@@ -9,15 +9,15 @@
 
   <link rel="icon" href="favicon.ico" sizes="any">
 
-  <link rel="stylesheet" href="https://unpkg.com/@primer/css/dist/primer.css">
-  <link rel="stylesheet" href="assets/css/custom.css">
+  <script src="/assets/uswds/dist/js/uswds-init.min.js"></script>
+  <link rel="stylesheet" href="/assets/uswds/dist/css/styles.css" />
 </head>
 
-<body class="{% if page.body-style %}{{ page.body-style }}{% else %}p-3{% endif %}">
-  <main class="{% if page.main-style %}{{ page.main-style }}{% else %}container-md markdown-body{% endif %}">
+<body>
+  <main id="main-content">
     {{ content }}
   </main>
-  <script src="assets/js/main.js"></script>
+  <script src="/assets/uswds/dist/js/uswds.min.js"></script>
 </body>
 
 </html>
