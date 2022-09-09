@@ -1,8 +1,8 @@
 image:
   file: Dockerfile
 tasks:
-  - before: bundle install
-    command: bundle exec jekyll serve
+  - init: npm install && bundle install
+    command: npm run start
 ports:
   - port: 4000
     onOpen: open-browser
