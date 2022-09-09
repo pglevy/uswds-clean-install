@@ -23,5 +23,8 @@
   "homepage": "https://github.com/pglevy/uswds-clean-install#readme",
   "dependencies": {
     "@uswds/uswds": "^3.1.0"
+  },
+  "devDependencies": {
+    "@uswds/compile": "^1.0.0-beta.3"
   }
 }
