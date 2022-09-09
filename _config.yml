@@ -6,7 +6,7 @@ description: Working installation of USWDS you can view on Github Pages or edit 
 
 # Enable for live hosting on GitHub Pages
 # This should match the name of your GitHub repository, along with a leading forward slash (/).
-baseurl: /uswds-clean-install
+# baseurl: /uswds-clean-install
 
 # Set the language for the site. Used for "html lang." Default is English.
 lang: en
