@@ -1,9 +1,10 @@
 {
   "name": "uswds-clean-install",
   "version": "1.0.0",
-  "description": "Working installation of the USWDS you can view on Github Pages or edit on Gitpod",
+  "description": "Working installation of USWDS you can view on Github Pages or edit on Gitpod",
   "main": "index.md",
   "scripts": {
+    "start": "npm run jekyll:serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
