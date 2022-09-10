@@ -2,7 +2,7 @@ image:
   file: Dockerfile
 tasks:
   - name: Start Server
-    init: bundle install && gp sync-done server
+    init: npm install && bundle install && gp sync-done server
     command: npm start
   - name: Watch SASS
     init: gp sync-await server
