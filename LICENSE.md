@@ -2,7 +2,7 @@
 
 See the [USWDS license](https://github.com/uswds/uswds/blob/develop/LICENSE.md) for more information.
 
-## The rest of this project is dedicated to the public domain: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+## The rest of this project is CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 
 This is a [human-readable summary](https://creativecommons.org/publicdomain/zero/1.0/) of the [Legal Code (read the full text)](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
