@@ -4,7 +4,7 @@ Working installation of USWDS you can view on GitHub Pages or edit on Gitpod
 
 ## Check it out
 
-[Open pglevy/uswds-clean-install in Gitpod](https://gitpod.io/#https://github.com/pglevy/uswds-clean-install) to run the project. You just won't be able to save your changes without copying to your own repo.
+[Open uswds-clean-install in Gitpod](https://gitpod.io/#https://github.com/pglevy/uswds-clean-install) to run the project. You just won't be able to save your changes without copying to your own repo.
 
 ## Start your own
 
