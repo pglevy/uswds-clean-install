@@ -1,5 +1,5 @@
 # USWDS Clean Install
-Working installation of USWDS you can view on GitHub Pages or edit on Gitpod
+Working installation of USWDS you can view on GitHub Pages or edit on Gitpod. Use for troubleshooting installation issues or trying something out in a sandbox environment.
 
 
 ## Check it out
